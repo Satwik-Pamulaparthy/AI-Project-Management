@@ -1,4 +1,4 @@
-# Project Management & Workflow Automation Bot — Starter Kit (Python)
+# Project Management & Workflow Automation Bot 
 
 This repo is a **minimal, modular** scaffold to build a conversational PM bot that can:
 - Automate task assignments & deadline reminders
